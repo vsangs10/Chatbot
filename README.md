@@ -1,10 +1,9 @@
-# Chatbot
-This repository contains my pre-work project for the Elite 101 Course at Code2College. <br/>
-The pre-work is a python chatbot. <br/>
+# Introduction
 
-hello again for another time
+This is a repository created by *Vedant*
 
+## Usage
 
-# This section is added to the new branch
-This branch will be pushed to the repository as a new branch. <br/>
-This line is added for testing purposes.
+Run this command to execute the application:
+
+`python filename.py`
